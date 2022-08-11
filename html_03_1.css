@@ -1,0 +1,160 @@
+html{
+    background-color: rgb(255, 228, 251);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+header{
+    width:800px; 
+    height: 250px;
+    margin-top: 200px;
+    margin-left: 600px;
+}
+#a1{
+    background-image: url('3picture1.jpg');
+    width:250px;
+    height:250px;
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+#a2{
+    background-color: rgb(46, 112, 84);
+    width:330px;
+    height: 250px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    color:white;
+    text-transform:capitalize;
+    line-height: 38px;
+    font-size: 36px;
+    font-weight: 200;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: -250px;
+    margin-left: 245px;
+}
+#a3{
+    background-image: url('3picture2.jpg');
+    height:250px;
+    width:226px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    position: relative;
+    margin-top: -250px;
+    margin-left: 574px;
+}
+#b1{
+    background-image: url('3picture3.jpg');
+    width:800px;
+    height:500px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin-left: 600px;
+}
+.button{
+    background-color:orange;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color:white;
+    text-decoration: none;
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    border-radius: 5px;
+    position:absolute;
+    top:815px;
+    left:810px;
+}
+.information{
+    background-image: url('3picture4.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    width:800px;
+    height: 400px;
+    margin-left: 100px;
+    padding-top:150px;
+    padding-left: 400px;
+    padding-right: 150px;
+    box-sizing: border-box;
+    font-size: 32px;
+    position:relative;
+    margin-left: 600px;
+}
+.information1{
+    background-color: white;
+    margin-left: 400px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 28px;
+    width:800px;
+    position: relative;
+    margin-top: -25px;
+    margin-left: 600px;
+}
+ul{
+    background-color: white;
+    width: 800px;
+    height: 500px;
+    margin-left: 600px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h2{
+    background-color: white;
+    width: 800px;
+    margin-left: 600px;
+    box-sizing: border-box;
+    font-size: 42px;
+    font-weight: 400;
+    padding-left: 50px;
+    padding-top: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#c1{
+    background-image: url('3picture5.jpg');
+    width:250px;
+    height:250px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin-top: -200px;
+}
+#c2{
+    background-color: rgb(136, 136, 136);
+    font-size: 20px;
+    color: white;
+    text-align: right;
+    line-height: 36px;
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-indent: 300px;
+    box-sizing: border-box;
+    width:550px;
+    height:189px;
+    position: relative;
+    margin-left: 250px;
+    margin-top: -250px;
+}
+.button1{
+    background-color:orange;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color:white;
+    text-decoration: none;
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    border-radius: 5px;
+    position:relative;
+    top:-400px;
+    left:800px;
